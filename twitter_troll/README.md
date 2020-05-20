@@ -1,4 +1,7 @@
 # Twitter Troll Classifier
+
+Thank you to FJ Fourie, Howey Qiu, Tom Shanahan and Bailey Wei for their contributions.
+
 ## Datasets
 There were two datasets utilized in this analysis - a troll tweet dataset and a control political tweet dataset.
 
