@@ -3,7 +3,7 @@
 ## Datasets
 I cannot share the datasets used for this project, however, they consisted of a random collection of Tweets.
 
-## Notebook
+## Code
 
 `named_entity_recognition_tagger.py` contains the code for this classifier. 
 
